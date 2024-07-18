@@ -13,3 +13,9 @@ Ini Line Ini Line Ini Line 12 Ini Line 12
 Ini Line Ini Line Ini Line 13 Ini Line 13
 Ini Line Ini Line Ini Line 14 Ini Line 14
 Ini Line Ini Line Ini Line 15 Ini Line 15
+ditambah m ' d
+Ini Line Ini Line Ini Line 15 Ini Line 15
+Ini Line Ini Line Ini Line 15 Ini Line 15
+Ini Line Ini Line Ini Line 15 Ini Line 15
+
+
